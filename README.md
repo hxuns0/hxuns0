@@ -34,8 +34,3 @@
 
 > ⚠️ 아직 집계된 GitHub 활동 통계가 없습니다.  
 > 공개 저장소에서 활동하면 이곳에 자동으로 표시됩니다.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&locale=kr" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&locale=kr" height="165" />
-</p>
